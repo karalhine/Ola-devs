@@ -1,5 +1,7 @@
 # Olá, devs
  Primeiro Git
 
-Repositório criando durante uma aula online
+Repositório criado durante uma aula online
+
+Incluindo direto do site
 
